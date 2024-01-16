@@ -1,5 +1,6 @@
 
-
+// second time commit
+//changes doing here in backend
 // 1.importing require dependencies
 // 2.Sequelize  database connection and checking connection
 // 3.creating table and columns in the mentioned database 
